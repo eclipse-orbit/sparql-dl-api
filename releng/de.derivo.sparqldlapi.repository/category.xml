@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.derivo.sparqldlapi.feature_1.0.0.qualifier.jar" id="de.derivo.sparqldlapi.feature" version="1.0.0.qualifier"/>
+</site>
